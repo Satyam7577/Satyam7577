@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Satyam7577
+- 👋 Hi, I’m @Saty
 - 👀 I’m interested in springboot related projects and java 8 (& above)
 - 🌱 I’m currently learning new things about backend development
 
